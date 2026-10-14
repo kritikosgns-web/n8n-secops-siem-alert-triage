@@ -1,5 +1,6 @@
-# Automated Webhook & Domain Intelligence Triage Engine (Python FastAPI + n8n)
+# Automated SecOps SIEM & WAF Alert Triage Engine (Python FastAPI + n8n)
 
-Eliminate manual triage fatigue. Automatically inspect incoming webhooks, verify corporate domains, scrape live metadata, and route high-priority alerts to Slack.
+Eliminate 80% of SOC alert fatigue. This self-hosted Python FastAPI microservice and n8n SOAR workflow ingests SIEM/WAF webhooks, detects SQLi/LFI/Brute-Force patterns, filters false positives, and routes critical incidents to Slack.
 
-**[Download the Full Production FastAPI + n8n Blueprint on Gumroad (18 EUR OFF Auto-Applied)](https://kritikos12.gumroad.com/l/qjimps/LAUNCH29)**
+## Download the Complete Production System
+**[Get the Automated SecOps SIEM & WAF Alert Triage Engine on Gumroad (20 EUR OFF Auto-Applied via SECOPS39)](https://kritikos12.gumroad.com/l/fauvaz/SECOPS39)**
